@@ -15644,8 +15644,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/danny/Documentos/programacion 1/git/pc02/Views/Home/formulario.cshtml",
+      "TargetPath": "Views\\Home\\formulario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/danny/Documentos/programacion 1/git/pc02/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danny/Documentos/programacion 1/git/pc02/Views/Home/confirmacion.cshtml",
+      "TargetPath": "Views\\Home\\confirmacion.cshtml",
       "FileKind": "mvc"
     },
     {

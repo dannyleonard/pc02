@@ -38,3 +38,5 @@
 /home/danny/Documentos/programacion 1/git/pc02/obj/Debug/net5.0/mvcpc.pdb
 /home/danny/Documentos/programacion 1/git/pc02/obj/Debug/net5.0/mvcpc.genruntimeconfig.cache
 /home/danny/Documentos/programacion 1/git/pc02/obj/Debug/net5.0/mvcpc.csproj.CopyComplete
+/home/danny/Documentos/programacion 1/git/pc02/obj/Debug/net5.0/Razor/Views/Home/formulario.cshtml.g.cs
+/home/danny/Documentos/programacion 1/git/pc02/obj/Debug/net5.0/Razor/Views/Home/confirmacion.cshtml.g.cs

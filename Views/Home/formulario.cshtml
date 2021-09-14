@@ -1,0 +1,43 @@
+<style>
+    body { background-color: #14B76E; color: #fff}
+    
+  </style>
+<h1>Formulario de contacto</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="">Nombres, apellido paterno, apellido materno</label>
+        <input type="text" name="NombreCompleto" id="" class="form-control">
+    </div>
+    <div class="form-group">
+        <label for="">Elige tipo de mascota</label>
+        <select name="TipMascota" id="">
+            <option value="No se eligio">--Elige uno--</option>
+            <option value="Gato">Gato</option>
+            <option value="Perro">Perro</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="">Descripción</label>
+        <textarea name="Descripcion" id="" cols="30" rows="10" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="">Teléfono</label>
+        <input type="text" name="Telefono" id="" class="form-control">
+    </div>
+    <div class="form-group">
+        <label for="">Distrito</label>
+        <select name="Distrito" id="">
+            <option value="No se eligio">--Elige uno--</option>
+            <option value="DistritoA">Distrito A</option>
+            <option value="DistritoB">Distrito B</option>
+            <option value="DistritoC">Distrito C</option>
+            <option value="DistritoD">Distrito D</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="">Dirección</label>
+        <input type="text" name="Direccion" id="" class="form-control">
+    </div>
+    <button class="btn btn-primary">Enviar mensaje</button>
+</form>
